@@ -1,0 +1,10 @@
+﻿@model PartsUnlimited.Models.Category
+
+@{
+    ViewBag.Title = "Browse Products";
+}
+
+<section class="section-alt">
+    <h2 class="text-in-center">@Model.Name</h2>
+    @await Html.PartialAsync("_ProductList", Model.Products)
+</section>
