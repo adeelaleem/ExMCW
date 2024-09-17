@@ -7,3 +7,5 @@ Here you will find:
 2. [Cloud-native applications](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Cloud-native-applications-master)
 3. [Modern cloud apps](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Modern-cloud-apps)
 4. [Microservices architecture](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Microservices-architecture)
+5. [High Performance Computing](https://github.com/adeelaleem/ExMCW/tree/main/MCW-High-Performance-Computing)
+6. [Serverless architecture](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Serverless-architecture)
