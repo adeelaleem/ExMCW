@@ -9,3 +9,6 @@ Here you will find:
 4. [Microservices architecture](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Microservices-architecture)
 5. [High Performance Computing](https://github.com/adeelaleem/ExMCW/tree/main/MCW-High-Performance-Computing)
 6. [Serverless architecture](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Serverless-architecture)
+7. [OSS DevOps](https://github.com/adeelaleem/ExMCW/tree/main/Microsoft/MCW-OSS-DevOps)
+8. [OSS PaaS and DevOps](https://github.com/adeelaleem/ExMCW/MCW-OSS-PaaS-and-DevOps)
+9. [Continuous delivery in Azure DevOps](https://github.com/adeelaleem/ExMCW/MCW-Continuous-Delivery-in-Azure-DevOps)
