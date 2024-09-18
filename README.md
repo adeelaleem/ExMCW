@@ -20,3 +20,5 @@ Here you will find:
 15. [Azure Stack](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-Stack)
 16. [Business continuity and disaster recovery](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Business-continuity-and-disaster-recovery)
 17. [Implementing Azure Virtual Desktop in the Enteprise](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Implementing-Windows-Virtual-Desktop-in-the-enterprise)
+18. [SAP HANA on Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-SAP-HANA-on-Azure)
+19. [SAP NetWeaver on Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-SAP-NetWeaver-on-Azure)
