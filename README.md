@@ -22,3 +22,6 @@ Here you will find:
 17. [Implementing Azure Virtual Desktop in the Enteprise](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Implementing-Windows-Virtual-Desktop-in-the-enterprise)
 18. [SAP HANA on Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-SAP-HANA-on-Azure)
 19. [SAP NetWeaver on Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-SAP-NetWeaver-on-Azure)
+20. [Security baseline on Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Security-baseline-on-Azure)
+21. [Azure security and management](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-Security-and-Management)
+22. [Azure security Privacy and Compliance](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-security-privacy-and-compliance)
