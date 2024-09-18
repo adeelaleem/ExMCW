@@ -18,5 +18,5 @@ Here you will find:
 13. [Hybrid Identity](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Hybrid-identity)
 14. [Enterprise Class Networking](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Enterprise-class-networking)
 15. [Azure Stack](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-Stack)
-16. [Business continuity and disaster recovery](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Business-Continuity-and-Disaster-Recovery)
-17. [Implementing Azure Virtual Desktop in the Enteprise](https://github.com/adeelaleem/ExMCW/tree/main MCW-Implementing-Azure-Virtual-Desktop-in-the-enterprise)
+16. [Business continuity and disaster recovery](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Business-continuity-and-disaster-recovery)
+17. [Implementing Azure Virtual Desktop in the Enteprise](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Implementing-Windows-Virtual-Desktop-in-the-enterprise)
