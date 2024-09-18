@@ -26,3 +26,6 @@ Here you will find:
 21. [Azure security and management](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-security-and-management)
 22. [Azure security Privacy and Compliance](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-security-privacy-and-compliance)
 23. [Securing PaaS](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Securing-PaaS)
+24. [SQL Server hybrid cloud](https://github.com/adeelaleem/ExMCW/tree/main/MCW-SQL-Server-hybrid-cloud)
+25. [Migrating SQL databases to Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Migrating-SQL-databases-to-Azure)
+26. [Migrating Oracle to Azure SQL and PostgreSQL](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL)

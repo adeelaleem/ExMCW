@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="panel panel-default">
+            <div class="panel-heading clearfix">
+                <div class="panel-title">Sales by Year</div>
+            </div>
+            <div class="panel-body">
+                <canvas id="bar-chart"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/lib/Chart.js/chart.min.js"></script>
+    <script type="text/javascript">
+        var barData = {
+            labels: [
+                @foreach (var item in Model)
+                {
+                    <text>@item.Year,</text>
+                }
+            ],
+            datasets: [{
+                label: 'Sales',
+                backgroundColor: ['#ADD8E6'],
+                borderWidth: 2,
+                data: [
+                    @foreach (var item in Model)
+                    {
+                        <text>@item.Count,</text>
+                    }
+                ]
+            }]
+        };
+        window.onload = function () {
+            var plotContext = document.getElementById("bar-chart").getContext("2d");
+            window.myBar = new Chart(plotContext,
+                {
+                    type: "bar",
+                    data: barData,
+                    options:
+                    {
+                        title:
+                        {
+                            display: true,
+                            text: "Sales by Year"
+                        },
+                        responsive: true,
+                        maintainAspectRatio: true
+                    }
+                });
+        }
+    </script>
+}
