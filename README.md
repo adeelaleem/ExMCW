@@ -12,3 +12,4 @@ Here you will find:
 7. [OSS DevOps](https://github.com/adeelaleem/ExMCW/tree/main/MCW-OSS-DevOps)
 8. [OSS PaaS and DevOps](https://github.com/adeelaleem/ExMCW/tree/main/OSS-PaaS-and-DevOps-workshop)
 9. [Continuous delivery in Azure DevOps](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Continuous-delivery-in-Azure-DevOps)
+10. [Building a resilient IaaS architecture](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Building-a-resilient-IaaS-architecture)
