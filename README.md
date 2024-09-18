@@ -23,5 +23,6 @@ Here you will find:
 18. [SAP HANA on Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-SAP-HANA-on-Azure)
 19. [SAP NetWeaver on Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-SAP-NetWeaver-on-Azure)
 20. [Security baseline on Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Security-baseline-on-Azure)
-21. [Azure security and management](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-Security-and-Management)
+21. [Azure security and management](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-security-and-management)
 22. [Azure security Privacy and Compliance](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Azure-security-privacy-and-compliance)
+23. [Securing PaaS](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Securing-PaaS)
