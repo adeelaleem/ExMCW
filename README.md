@@ -29,3 +29,7 @@ Here you will find:
 24. [SQL Server hybrid cloud](https://github.com/adeelaleem/ExMCW/tree/main/MCW-SQL-Server-hybrid-cloud)
 25. [Migrating SQL databases to Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Migrating-SQL-databases-to-Azure)
 26. [Migrating Oracle to Azure SQL and PostgreSQL](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL)
+27. [Line of Business Application migration](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Line-of-business-application-migration)
+28. [Building the business migration case with Windows Server and SQL Server](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server)
+29. [Building the business migration case with Linux and OSS DB to Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Building-the-business-migration-case-with-Linux-and-OSS-DB-to-Azure)
+30. [Linux lift and shift](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Linux-Lift-and-Shift)
