@@ -14,3 +14,6 @@ Here you will find:
 9. [Continuous delivery in Azure DevOps](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Continuous-delivery-in-Azure-DevOps)
 10. [Building a resilient IaaS architecture](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Building-a-resilient-IaaS-architecture)
 11. [Optimized architecture](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Optimized-Architecture)
+12. [Enterprise-ready cloud](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Enterprise-Ready-Cloud)
+13. [Hybrid Identity](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Hybrid-identity)
+14. [Enterprise Class Networking](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Enterprise-class-networking/tree/main)
