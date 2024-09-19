@@ -32,4 +32,4 @@ Here you will find:
 27. [Line of Business Application migration](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Line-of-business-application-migration)
 28. [Building the business migration case with Windows Server and SQL Server](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server)
 29. [Building the business migration case with Linux and OSS DB to Azure](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Building-the-business-migration-case-with-Linux-and-OSS-DB-to-Azure)
-30. [Linux lift and shift](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Linux-Lift-and-Shift)
+30. [Linux lift and shift](https://github.com/adeelaleem/ExMCW/tree/main/MCW-Linux-lift-and-shift)
