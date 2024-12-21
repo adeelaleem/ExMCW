@@ -30,7 +30,7 @@
             }
         },
         "studentFilesUrl": {
-            "defaultValue": "https://github.com/microsoft/MCW-Building-a-resilient-IaaS-architecture/raw/master/Hands-on%20lab/Resources/student-files/studentfiles.zip",
+            "defaultValue": "https://github.com/adeelaleem/ExMCW/main/MCW-Building-a-resilient-IaaS-architecture/raw/master/Hands-on%20lab/Resources/student-files/studentfiles.zip",
             "type": "String"
         },
         "studentFilesDestination": {
