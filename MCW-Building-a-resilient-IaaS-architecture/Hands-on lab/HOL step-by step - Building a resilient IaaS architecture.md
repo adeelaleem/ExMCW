@@ -485,7 +485,7 @@ In this task, you will deploy the resources used by the DR environment. First, y
     New-AzResourceGroup -Name 'ContosoRG2' -Location 'East US 2'
 
     New-AzSubscriptionDeployment -Name 'Contoso-IaaS-DR' `
-        -TemplateUri 'https://raw.githubusercontent.com/microsoft/MCW-Building-a-resilient-IaaS-architecture/master/Hands-on%20lab/Resources/templates/contoso-iaas-dr.json' `
+        -TemplateUri 'https://raw.githubusercontent.com/adeelaleem/ExMCW/main/MCW-Building-a-resilient-IaaS-architecture/Hands-on%20lab/Resources/templates/contoso-iaas-dr.json' `
         -Location 'East US 2'
     ```
 
@@ -494,7 +494,7 @@ In this task, you will deploy the resources used by the DR environment. First, y
     ```powershell
     # Only run this command if the previous deployment failed with an error that size was not available
     New-AzSubscriptionDeployment -Name 'Contoso-IaaS-DR-SKU' `
-        -TemplateUri 'https://raw.githubusercontent.com/microsoft/MCW-Building-a-resilient-IaaS-architecture/master/Hands-on%20lab/Resources/templates/contoso-iaas-dr.json' `
+        -TemplateUri 'https://raw.githubusercontent.com/adeelaleem/ExMCW/main/MCW-Building-a-resilient-IaaS-architecture/Hands-on%20lab/Resources/templates/contoso-iaas-dr.json' `
         -Location 'East US 2' -skuSizeVM 'D2s_v5'
     ```
 
